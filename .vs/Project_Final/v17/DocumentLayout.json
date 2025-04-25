@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manoj Kumar\\Project_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\Paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\PlayerPaddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerPaddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\ComputerPaddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ComputerPaddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\BouncySurface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BouncySurface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\ScoringZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ScoringZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoringZone.cs",
+              "DocumentMoniker": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\ScoringZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoringZone.cs",
+              "ToolTip": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\ScoringZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoringZone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:33:52.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:33:46.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BouncySurface.cs",
+              "DocumentMoniker": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\BouncySurface.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BouncySurface.cs",
+              "ToolTip": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\BouncySurface.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BouncySurface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:33:42.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
+              "ToolTip": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:32:36.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComputerPaddle.cs",
+              "DocumentMoniker": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\ComputerPaddle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ComputerPaddle.cs",
+              "ToolTip": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\ComputerPaddle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ComputerPaddle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:31:50.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerPaddle.cs",
+              "DocumentMoniker": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\PlayerPaddle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPaddle.cs",
+              "ToolTip": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\PlayerPaddle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerPaddle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:31:05.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paddle.cs",
+              "DocumentMoniker": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\Paddle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Paddle.cs",
+              "ToolTip": "C:\\Users\\Manoj Kumar\\Project_Final\\Assets\\Scripts\\Paddle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Paddle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:28:40.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
